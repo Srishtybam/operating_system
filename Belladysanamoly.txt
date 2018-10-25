@@ -1,0 +1,22 @@
+run:
+enter no of pages
+
+12
+enter no of page fraame
+4
+enter values
+1
+2
+3
+4
+1
+2
+5
+1
+2
+3
+4
+5
+hit2
+fault10
+BUILD SUCCESSFUL (total time: 1 minute 13 seconds)
